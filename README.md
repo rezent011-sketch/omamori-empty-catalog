@@ -1,2 +1,1 @@
-# omamori-empty-catalog
-Static empty English catalog pages only. Not the Origin source repo. Payments off.
+Static empty English catalog. Not the Origin source. Payments are not enabled. No sample products.
